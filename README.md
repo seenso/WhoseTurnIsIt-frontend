@@ -3,7 +3,7 @@ This "Whose Turn Is It?" project is a communication tool to help household membe
 
 It has a Sinatra API backend that uses Active Record to access and persist data in a database, which will be used by a separate React frontend that interacts with the database via the API.
 - This current repo is the React frontend
-- The Sinatra backend can be found [here](https://github.com/seenso/phase-3-sinatra-react-project).
+- The Sinatra backend can be found [here](https://github.com/seenso/WhoseTurnIsIt-backend).
 
 # Project Requirements
 For this project, you must:
